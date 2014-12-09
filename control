@@ -1,0 +1,27 @@
+Source: signon-kwallet-extension
+Section: kde
+Priority: extra
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               extra-cmake-modules,
+               pkg-kde-tools (>= 0.12),
+               signond-dev,
+               libkf5wallet-dev,
+               qtbase5-dev
+Standards-Version: 3.9.5
+XS-Testsuite: autopkgtest
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/signon-kwallet-extension.git/
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/signon-kwallet-extension.git
+
+Package: signon-kwallet-extension
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description:
+
+Package: signon-kwallet-extension-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: signon-kwallet-extension (= ${binary:Version}), ${misc:Depends}
+Description:
