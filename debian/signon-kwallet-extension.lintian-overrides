@@ -1,0 +1,2 @@
+signon-kwallet-extension: postinst-has-useless-call-to-ldconfig
+signon-kwallet-extension: postrm-has-useless-call-to-ldconfig
