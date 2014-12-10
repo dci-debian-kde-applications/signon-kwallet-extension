@@ -18,11 +18,11 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/signon-kwallet-extension.gi
 Package: signon-kwallet-extension
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description:
+Description: KWallet extension for signond
 
 Package: signon-kwallet-extension-dbg
 Architecture: any
 Section: debug
 Priority: extra
 Depends: signon-kwallet-extension (= ${binary:Version}), ${misc:Depends}
-Description:
+Description: KWallet extension for signond
