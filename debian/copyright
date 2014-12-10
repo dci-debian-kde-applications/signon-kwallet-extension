@@ -2,8 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: signon-kwallet-extension
 Source: http://quickgit.kde.org/?p=signon-kwallet-extension.git
 
-Files: src/*
-       tests/*
+Files: *
 Copyright: 2013 Alejandro Fiestas Olivares <afiestas@kde.org>
 License: GPL-2+
 
