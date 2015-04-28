@@ -1,6 +1,7 @@
 signon-kwallet-extension (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Add watch file 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 28 Apr 2015 15:54:37 -0700
 
