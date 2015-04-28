@@ -1,0 +1,3 @@
+version=3
+http://download.kde.org/stable/applications/([\d.]+)/src/signon-kwallet-extension-([\d.]+).tar.xz
+http://download.kde.org/unstable/applications/([\d.]+)/src/signon-kwallet-extension-([\d.]+).tar.xz
