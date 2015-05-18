@@ -1,13 +1,17 @@
+signon-kwallet-extension (4:15.04.1-1~) UNRELEASED; urgency=medium
+
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 13 May 2015 23:18:09 -0700
+
 signon-kwallet-extension (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release.
-  * Add watch file 
-  * wrap-and-sort 
+  * Add watch file
+  * wrap-and-sort
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 23:18:09 -0700
-
-signon-kwallet-extension (0.0) UNRELEASED; urgency=medium
-
+  [ Harald Sitter ]
   * Initial release.
 
- -- Harald Sitter <apachelogger@kubuntu.org>  Tue, 09 Dec 2014 14:02:48 +0100
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 23:18:09 -0700
