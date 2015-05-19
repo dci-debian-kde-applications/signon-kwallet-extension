@@ -8,7 +8,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5wallet-dev (>= 5.0~),
                pkg-config,
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.2.0~),
+               qtbase5-dev (>= 5.4),
                signond-dev
 Standards-Version: 3.9.5
 XS-Testsuite: autopkgtest
