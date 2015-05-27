@@ -3,8 +3,9 @@ signon-kwallet-extension (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
   * New upstream release.
   * Add watch file 
   * wrap-and-sort 
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 23:18:09 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 27 May 2015 09:28:20 -0700
 
 signon-kwallet-extension (0.0) UNRELEASED; urgency=medium
 
