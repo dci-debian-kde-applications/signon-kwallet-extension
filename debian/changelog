@@ -6,6 +6,7 @@ signon-kwallet-extension (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   [ Diane Trout ]
   * New upstream release (15.08.0).
+  * Add myself as Uploader.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 14:32:24 +0200
 
