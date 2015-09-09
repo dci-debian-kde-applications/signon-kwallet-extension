@@ -27,7 +27,7 @@ Architecture: any
 Section: debug
 Priority: extra
 Depends: signon-kwallet-extension (= ${binary:Version}), ${misc:Depends}
-Description: KWallet extension for signond
+Description: KWallet extension for signond - debug symbols
  Enables signon services to store credentials in KWallet.
  .
  This package contains debugging symbols.
