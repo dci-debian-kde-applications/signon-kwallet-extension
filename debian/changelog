@@ -10,6 +10,7 @@ signon-kwallet-extension (4:15.08.0-1~) UNRELEASED; urgency=medium
   * Remove XS-Testsuite: autopkgtest. That's now default behavior.
   * Update Standards-Version to 3.9.6. No changes needed.
   * Add homepage.
+  * Remove Priority: extra section from -dbg package control block.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 14:32:24 +0200
 
