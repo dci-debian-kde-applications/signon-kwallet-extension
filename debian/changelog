@@ -1,4 +1,4 @@
-signon-kwallet-extension (4:15.08.0-1~) UNRELEASED; urgency=medium
+signon-kwallet-extension (4:15.08.0-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Prepare initial Debian release.
@@ -12,7 +12,7 @@ signon-kwallet-extension (4:15.08.0-1~) UNRELEASED; urgency=medium
   * Add homepage.
   * Remove Priority: extra section from -dbg package control block.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 01 Jul 2015 14:32:24 +0200
+ -- Diane Trout <diane@debian.org>  Wed, 09 Sep 2015 21:15:42 -0700
 
 signon-kwallet-extension (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
