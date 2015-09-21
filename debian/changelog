@@ -1,3 +1,9 @@
+signon-kwallet-extension (4:15.08.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Diane Trout <diane@debian.org>  Sun, 20 Sep 2015 20:19:43 -0700
+
 signon-kwallet-extension (4:15.08.0-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
