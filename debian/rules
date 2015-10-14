@@ -2,6 +2,9 @@
 
 include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 
+override_dh_makeshlibs:
+	$(overridden_command) -X' ?usr/lib/[^/]*/?signon/extensions/[^/]*.so'
+
 override_dh_strip:
 	$(overridden_command) --dbg-package=signon-kwallet-extension-dbg
 
