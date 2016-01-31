@@ -21,12 +21,3 @@ Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: KWallet extension for signond
  Enables signon services to store credentials in KWallet.
-
-Package: signon-kwallet-extension-dbg
-Architecture: any
-Section: debug
-Depends: signon-kwallet-extension (= ${binary:Version}), ${misc:Depends}
-Description: KWallet extension for signond - debug symbols
- Enables signon services to store credentials in KWallet.
- .
- This package contains debugging symbols.
