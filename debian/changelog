@@ -20,11 +20,24 @@ signon-kwallet-extension (4:15.08.2-1) unstable; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:07:11 +0200
 
+signon-kwallet-extension (4:15.08.2-0ubuntu1) wily; urgency=medium
+
+  * Vivid backport
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 13:07:20 +0100
+
 signon-kwallet-extension (4:15.08.1-1) unstable; urgency=medium
 
   * New upstream release.
 
  -- Diane Trout <diane@debian.org>  Sun, 20 Sep 2015 20:19:43 -0700
+
+signon-kwallet-extension (4:15.08.1-0ubuntu1) wily; urgency=medium
+
+  * New upstream release (15.08.1)
+
+ -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:47:04 +0100
 
 signon-kwallet-extension (4:15.08.0-1) unstable; urgency=medium
 
@@ -42,14 +55,27 @@ signon-kwallet-extension (4:15.08.0-1) unstable; urgency=medium
 
  -- Diane Trout <diane@debian.org>  Wed, 09 Sep 2015 21:15:42 -0700
 
-signon-kwallet-extension (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+signon-kwallet-extension (4:15.08.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 26 Aug 2015 18:22:51 +0100
+
+signon-kwallet-extension (4:15.07.90-0ubuntu1) wily; urgency=medium
+
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 12:33:41 +0100
+
+signon-kwallet-extension (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release.
   * Add watch file
   * wrap-and-sort
+  * Vivid backport
 
-  [ Harald Sitter ]
-  * Initial release.
+  [ Jonathan Riddell ]
+  * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 23:18:09 -0700
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 22:44:03 +0200
