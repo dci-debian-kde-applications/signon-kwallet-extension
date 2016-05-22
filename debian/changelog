@@ -1,6 +1,4 @@
-signon-kwallet-extension (4:16.04.1-1~1.gbpdab269) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @dab2697cbfb8c7171471aa7dd61e8e9815864072 **
+signon-kwallet-extension (4:16.04.1-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).
@@ -8,9 +6,8 @@ signon-kwallet-extension (4:16.04.1-1~1.gbpdab269) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:57:26 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 May 2016 10:16:50 +0200
 
 signon-kwallet-extension (4:15.12.1-1) experimental; urgency=medium
 
