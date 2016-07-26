@@ -1,14 +1,19 @@
-signon-kwallet-extension (4:16.04.1-0neon) xenial; urgency=medium
+signon-kwallet-extension (4:16.04.2-1) unstable; urgency=medium
 
-  * New release
+  * New upstream release.
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:44:44 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 21 Jun 2016 09:02:31 +0200
 
-signon-kwallet-extension (4:15.12.2-1~) UNRELEASED; urgency=medium
+signon-kwallet-extension (4:16.04.1-1) unstable; urgency=medium
 
+  [ Maximiliano Curia ]
   * New upstream release (15.12.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:52:21 +0100
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 May 2016 10:16:50 +0200
 
 signon-kwallet-extension (4:15.12.1-1) experimental; urgency=medium
 
