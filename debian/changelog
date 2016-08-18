@@ -1,10 +1,11 @@
-signon-kwallet-extension (4:16.04.3-1~1.gbp5ee472) UNRELEASED; urgency=medium
+signon-kwallet-extension (4:16.08.0-1~1.gbp735342) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5ee4727fa317304567db01631d57657e80908501 **
+  ** SNAPSHOT build @735342d08f35e068862651c53166bcc0799ee274 **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 22:57:23 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:57:15 +0200
 
 signon-kwallet-extension (4:16.04.2-1) unstable; urgency=medium
 
