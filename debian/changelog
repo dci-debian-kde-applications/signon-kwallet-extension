@@ -7,6 +7,7 @@ signon-kwallet-extension (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Bump Standards-Version to 4.1.1, no changes required.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 12 Sep 2017 14:18:29 +0200
 
