@@ -1,4 +1,6 @@
-signon-kwallet-extension (4:17.08.3-0r1) UNRELEASED; urgency=medium
+signon-kwallet-extension (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.1)
@@ -11,7 +13,7 @@ signon-kwallet-extension (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Simplify watch file, and switch it to https.
   * Update lintian overrides.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 12 Sep 2017 14:18:29 +0200
+ -- Pino Toscano <pino@debian.org>  Wed, 06 Dec 2017 07:38:01 +0100
 
 signon-kwallet-extension (4:17.08.1-0neon) xenial; urgency=medium
 
